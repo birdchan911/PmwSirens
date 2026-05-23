@@ -1,0 +1,10 @@
+{
+  "loader": "neoforge:obj",
+  "model": "pmwsirens:models/block/hurricane130.obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "textures": {
+    "texture0": "pmwsirens:block/hurricane130texture",
+    "particle": "pmwsirens:block/hurricane130texture"
+  }
+}

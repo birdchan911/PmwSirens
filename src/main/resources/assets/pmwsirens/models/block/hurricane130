@@ -1,0 +1,25 @@
+{
+    "loader": "neoforge:obj",
+
+
+    "model": "pmwsirens:models/hurricane130.obj",
+
+
+    "mtl_override": "pmwsirens:models/hurricane130.mtl",
+
+
+    "textures": {
+        "texture0": "pmwsirens:block/hurricane130texture",
+        "particle": "pmwsirens:block/hurricane130texture"
+    },
+
+
+    "automatic_culling": false,
+
+    "shade_quads": false,
+
+
+    "flip_v": true,
+
+    "emissive_ambient": false
+}
