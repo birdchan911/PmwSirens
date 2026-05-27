@@ -67,7 +67,7 @@ public class PmwSirens {
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.BUILDING_BLOCKS) {
-                    event.accept(ModBlocks.hurricane130);}
+                    event.accept(ModBlocks.model5growl);}
     }
 
     // You can use SubscribeEvent and let the Event Bus discover methods to call

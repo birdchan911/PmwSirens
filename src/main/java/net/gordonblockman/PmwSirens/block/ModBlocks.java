@@ -18,9 +18,9 @@ public class ModBlocks {
     public static final DeferredRegister.Blocks BLOCKS =
             DeferredRegister.createBlocks(PmwSirens.MODID);
 
-    public static final DeferredBlock<Block> hurricane130 = registerBlock("hurricane130",
+    public static final DeferredBlock<Block> model5growl = registerBlock("model5growl",
             () -> new Block(BlockBehaviour.Properties.of()
-                    .strength(4f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
+                    .noOcclusion() .strength(4f).requiresCorrectToolForDrops().sound(SoundType.STONE))) ;
 
 
 

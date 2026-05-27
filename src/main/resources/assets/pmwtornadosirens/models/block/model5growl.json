@@ -1,0 +1,11 @@
+{
+  "loader": "neoforge:obj",
+  "model": "pmwtornadosirens:models/block/model5growl.obj",
+  "flip_v": true,
+  "automatic_culling": false,
+  "textures": {
+    "texture0": "pmwtornadosirens:block/model5growltexture.png",
+    "particle": "pmwtornadosirens:block/model5growltexture.png"
+  }
+}
+
