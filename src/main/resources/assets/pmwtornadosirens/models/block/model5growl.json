@@ -4,8 +4,7 @@
   "flip_v": true,
   "automatic_culling": false,
   "textures": {
-    "texture0": "pmwtornadosirens:block/model5growltexture.png",
-    "particle": "pmwtornadosirens:block/model5growltexture.png"
+    "texture0": "pmwtornadosirens:block/model5growltexture",
+    "particle": "pmwtornadosirens:block/model5growltexture"
   }
 }
-

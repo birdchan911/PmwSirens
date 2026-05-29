@@ -1,6 +1,6 @@
-package net.gordonblockman.PmwSirens.item;
+package net.gordonblockman.pmwsirens.item;
 
-import net.gordonblockman.PmwSirens.PmwSirens;
+import net.gordonblockman.pmwsirens.PmwSirens;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredRegister;
 

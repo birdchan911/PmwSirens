@@ -1,4 +1,4 @@
-package net.gordonblockman.PmwSirens;
+package net.gordonblockman.pmwsirens;
 
 import java.util.List;
 

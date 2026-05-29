@@ -1,8 +1,7 @@
-package net.gordonblockman.PmwSirens.block;
+package net.gordonblockman.pmwsirens.block;
 
-import net.gordonblockman.PmwSirens.PmwSirens;
-import net.gordonblockman.PmwSirens.item.ModItems;
-import net.minecraft.client.resources.sounds.Sound;
+import net.gordonblockman.pmwsirens.PmwSirens;
+import net.gordonblockman.pmwsirens.item.ModItems;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
@@ -21,8 +20,6 @@ public class ModBlocks {
     public static final DeferredBlock<Block> model5growl = registerBlock("model5growl",
             () -> new Block(BlockBehaviour.Properties.of()
                     .noOcclusion() .strength(4f).requiresCorrectToolForDrops().sound(SoundType.STONE))) ;
-
-
 
 
 private static <T extends Block> DeferredBlock<T> registerBlock(String name, Supplier<T> block) {
